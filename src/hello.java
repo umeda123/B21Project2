@@ -3,5 +3,6 @@ public class hello {
         System.out.println("hello");
         // hi
         //hello Ahmed
+        // how are u?
     }
 }
