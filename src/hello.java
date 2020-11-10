@@ -4,5 +4,6 @@ public class hello {
         // hi
         //hello Ahmed
         // how are u?
+        // bad Day
     }
 }
